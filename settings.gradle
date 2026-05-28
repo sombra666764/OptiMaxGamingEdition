@@ -1,0 +1,4 @@
+rootProject.name = 'OptiMaxGamingEdition'
+
+include ':app'
+
